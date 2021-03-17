@@ -1,0 +1,68 @@
+*{
+    text-align: center;
+    background-color: rgb(72, 73, 73);
+}
+
+
+.t{
+    margin: 60px;
+    color: darkgray;
+}
+
+.p{
+    text-align: center;
+    color: darkgray;
+
+}
+
+.mybtn{
+    margin-top: 20px;
+    color: darkgray;
+    font-size:13px ;
+}
+
+/* .y{
+ color: darkgray;
+}
+
+.u{
+    color: darkgray;
+   }
+
+   .i{
+    color: darkgray;
+   }
+
+   .o{
+    color: darkgray;
+   } */
+
+   .dashdiv{
+       color: darkgray;
+   }
+
+   .dashbtn{
+       color:darkgray;
+      font-size: 13px;
+      padding: 13px;
+   }
+
+   .w{
+       color: darkgray;
+       padding: 13px;
+   }
+
+   .e{
+       color: darkgray;
+       padding: 13px;
+   }
+
+   .image{
+       padding: 200px;
+      
+   }
+
+   .my:hover{
+    background-color: rgb(56, 55, 6);
+
+   }
